@@ -1,6 +1,5 @@
 # 3D Teeth Segmentation using PointNet
 
-![Project Logo](path/to/logo.png)
 
 ## Table of Contents
 
