@@ -26,17 +26,7 @@
 - **Comprehensive Evaluation**: Incorporates both quantitative metrics and qualitative visualizations to assess model effectiveness.
 - **Error Analysis**: Identifies common segmentation errors, providing insights for future improvements.
 
-## Technologies Used
-
-- **Programming Language**: Python 3.x
-- **Deep Learning Framework**: TensorFlow 2.x / Keras
-- **Libraries**:
-  - [NumPy](https://numpy.org/)
-  - [Open3D](http://www.open3d.org/)
-  - [Matplotlib](https://matplotlib.org/)
-  - [Scikit-learn](https://scikit-learn.org/)
-- **Visualization Tools**: [Plotly](https://plotly.com/), [Mayavi](https://docs.enthought.com/mayavi/mayavi/)
-- **Version Control**: Git & GitHub
+b
 
 ## Dataset
 
@@ -44,33 +34,8 @@
 
 The dataset comprises 3D dental scans obtained from Cone Beam Computed Tomography (CBCT) machines. Each scan is represented as a point cloud with XYZ coordinates and associated labels for different dental structures, enabling precise segmentation tasks.
 
-### Acquisition
-
-- **Source**: Collected from XYZ Dental Clinic *(replace with your actual source)*
-- **Format**: PLY/OBJ files
-- **Size**: 500 dental scans *(replace with your actual dataset size)*
-- **Preprocessing Steps**:
-  - Noise removal using statistical filters
-  - Outlier detection and exclusion
-  - Normalization to fit within a unit sphere
-  - Data augmentation through rotation, scaling, and translation
-
-### Access
-
-- **Public Dataset**: [Link to dataset](https://example.com/dataset) *(if publicly available)*
-- **Private Dataset**: Contact [your.email@example.com](mailto:your.email@example.com) for access.
-
 ## Results
 
-### Quantitative Metrics
-
-| **Metric**      | **Value** |
-|-----------------|-----------|
-| **Accuracy**    | 95.2%     |
-| **Precision**   | 94.8%     |
-| **Recall**      | 95.5%     |
-| **F1-Score**    | 95.1%     |
-| **IoU**         | 92.3%     |
 
 *Table 1: Performance Metrics of the PointNet Model*
 
