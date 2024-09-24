@@ -26,9 +26,7 @@
 - **Comprehensive Evaluation**: Incorporates both quantitative metrics and qualitative visualizations to assess model effectiveness.
 - **Error Analysis**: Identifies common segmentation errors, providing insights for future improvements.
 
-b
 
-## Dataset
 
 ### Description
 
@@ -69,35 +67,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Mohamed Alaoui Mhamdi**
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **GitHub**: [yourusername](https://github.com/yourusername)
-
----
-
-## Tips for Customizing Your README
-
-1. **Replace Placeholder Text**: Ensure all placeholders (e.g., `path/to/logo.png`, `path/to/sample_segmentation.png`, `your.email@example.com`, etc.) are replaced with your actual content and file paths.
-2. **Add Visuals**: High-quality images and figures significantly enhance the readability and attractiveness of your README. Include sample segmentations, diagrams of the PointNet architecture, and any other relevant visuals.
-3. **Detailed Metrics**: If you have more metrics or different evaluation criteria, feel free to expand the quantitative results section.
-4. **Update Acknowledgements**: Ensure all contributors, tools, and libraries that significantly impacted your project are acknowledged.
-5. **Link to Documentation**: If you have additional documentation or a project website, include links in the appropriate sections.
-6. **Consistent Formatting**: Use Markdown syntax consistently for headings, lists, tables, and other elements to maintain a clean and professional appearance.
-7. **Project Status**: Optionally, include a section indicating the project's current status (e.g., active development, completed, etc.) or future plans.
-8. **Badges**: Consider adding badges (e.g., license, build status, GitHub stars) at the top to provide quick insights into the project.
-
-### Example of Adding Badges
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/3D-Teeth-Segmentation)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/3D-Teeth-Segmentation)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/3D-Teeth-Segmentation)
+- **Email**: (al.mh.mohamed@gmail.com)
+- **LinkedIn**: [MohamedalaouiMhamdi](https://www.linkedin.com/in/alaoui-mhamdi-mohamed/)
+- **GitHub**: [mohamedAlaouimhamdi](https://github.com/MohamedAlaouiMhamdi)
 
 
-Place these badges right below the project title for immediate visibility.
 
----
-
-By following this tailored template, you'll create a **professional and informative README** that effectively showcases your **3D Teeth Segmentation using PointNet** project, making it appealing and understandable to the GitHub community.
-
-If you need further customization or have additional requirements, feel free to ask!
