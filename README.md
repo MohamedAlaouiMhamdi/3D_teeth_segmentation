@@ -25,16 +25,11 @@ The model's ability to handle unordered point sets makes it particularly suitabl
 
 ## Dataset
 Our model was trained and evaluated on a proprietary dataset of 3D dental scans, consisting of:
-- 1000 high-resolution 3D scans of full dental arches
-- Manual segmentation labels for each tooth, provided by experienced dentists
-- Augmented data to increase robustness to variations in scan quality and tooth positioning
+- 300 high-resolution 3D scans of full dental arches
 
 ## Results
-Our 3D Teeth Segmentation model achieves state-of-the-art performance:
+<img width="425" alt="Screenshot 2024-09-24 160011" src="https://github.com/user-attachments/assets/4f6e272c-31db-40c2-8c7e-3ef4f653aa41">
 
-- **Average Intersection over Union (IoU)**: 0.92 on the test dataset
-- **Per-tooth Accuracy**: 95% across all tooth types
-- **Processing Time**: Average of 2 seconds per full arch scan on a standard GPU
 
 ### Visualization of Results
 
