@@ -20,6 +20,8 @@ Our model is based on the PointNet architecture, which is designed to process po
 2. **Feature Transformation**: Another mini-network that aligns features to a canonical space.
 3. **Segmentation Network**: A series of multi-layer perceptrons (MLPs) that extract global and local features.
 4. **Output Layer**: A final layer that predicts the segmentation label for each point.
+5. 
+<img width="383" alt="Screenshot 2024-09-24 155927" src="https://github.com/user-attachments/assets/2fea936f-ac82-4867-bfdc-867394156998">
 
 The model's ability to handle unordered point sets makes it particularly suitable for 3D dental scans, where the number and order of points can vary between scans.
 
