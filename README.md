@@ -30,6 +30,8 @@ Our model was trained and evaluated on a proprietary dataset of 3D dental scans,
 ## Results
 <img width="425" alt="Screenshot 2024-09-24 160011" src="https://github.com/user-attachments/assets/4f6e272c-31db-40c2-8c7e-3ef4f653aa41">
 
+<img width="464" alt="Screenshot 2024-09-24 155950" src="https://github.com/user-attachments/assets/4f64382c-737c-4c1a-9280-db92229eae06">
+
 
 ### Visualization of Results
 
