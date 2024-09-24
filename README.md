@@ -42,7 +42,7 @@ The dataset comprises 3D dental scans obtained from Cone Beam Computed Tomograph
 
 #### True vs. Predicted Segmentation
 
-![True vs Predicted Segmentation](<img width="770" alt="Screenshot 2024-09-24 154427" src="https://github.com/user-attachments/assets/a8ab6ccb-f6f7-4b1d-ab6a-8ee1b1fe5ce4">)
+<img width="770" alt="Screenshot 2024-09-24 154427" src="https://github.com/user-attachments/assets/a8ab6ccb-f6f7-4b1d-ab6a-8ee1b1fe5ce4">
 
 *Figure 1: Comparison of True vs. Predicted Teeth Segmentation*
 
